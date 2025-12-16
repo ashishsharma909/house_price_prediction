@@ -11,4 +11,8 @@ This project predicts house prices using Linear Regression.
 - Save model and make predictions
 
 ## Run
-python train_model.py
+python train_model.py 
+It will train the model
+## Run
+python predict_app.py 
+It will tale input from user as per requirements to predict the house price 
